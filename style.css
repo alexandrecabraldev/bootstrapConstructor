@@ -1,0 +1,27 @@
+.colorBackgroundPage{
+    background-color: #F1FBFF;
+}
+
+.w-100{
+    height: 100vh;
+    object-fit: cover;
+}
+
+.card-style{
+    padding: 1rem;
+}
+
+.space{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.flexCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar{
+    font-size: 1.25rem;
+}
